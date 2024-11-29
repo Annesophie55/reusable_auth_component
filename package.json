@@ -1,0 +1,35 @@
+{
+  "name": "reusable_auth_component",
+  "version": "1.0.0",
+  "description": "reusable authenticator component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annesophie55/reusable_auth_component.git"
+  },
+  "keywords": [
+    "authentication",
+    "signup",
+    "user",
+    "management",
+    "security",
+    "reusable"
+  ],
+  "author": "Jackowska Anne-Sophie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annesophie55/reusable_auth_component/issues"
+  },
+  "homepage": "https://github.com/Annesophie55/reusable_auth_component#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
